@@ -1,6 +1,7 @@
 
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    
     // Recopilar los datos del formulario
     $nombre = $_POST["nombre"];
     $email = $_POST["email"];
