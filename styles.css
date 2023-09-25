@@ -124,8 +124,17 @@ nav a {
 /* Pie de página */
 footer {
     background-color: #333;
-    color: #fff;
+    color: hsl(0, 0%, 100%);
     text-align: center;
     padding: 10px 0;
 }
+/* Estilo para la imagen en la sección de inicio */
+#inicio img {
+    max-width: 100%; /* Hacer que la imagen sea responsive */
+    margin-top: 20px; /* Espacio superior */
+    border: 1px solid #ddd; /* Borde con un efecto de sombra */
+    border-radius: 5px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+}
+
 
