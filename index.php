@@ -12,7 +12,7 @@
 </head>
 <body>
     <header>
-        <h1>Consultorio Dental <em> Sonris Brillante</em></h1>
+        <h1>Consultorio Dental <em> Sonrisa Brillante</em></h1>
         <nav>
             <ul>
                 <li><a href="#servicios">Servicios</a></li>
@@ -62,7 +62,7 @@
 
             <button type="submit">Enviar Cita</button>
         </form>
-    </section>
+ </section>
 
     <section id="acerca">
         <h2>Acerca de Nosotros</h2>
@@ -85,5 +85,6 @@
     <footer>
         <p>&copy; 2023 Consultorio Dental Sonrisa Brillante</p>
     </footer>
+    
 </body>
 </html>
